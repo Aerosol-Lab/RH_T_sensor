@@ -1,4 +1,4 @@
-# RH_T_sensor
+# RH and T sensor
 This repository contains codes and insutructions for creating a Relative Humidity (RH) and temperature (T) sensor using Arduino, reading and saving the data using Python. This is a low-cost option with limited precision. The main features of this project are listed below:
 * The sampling rate is 0.5 Hz.
 * Controller: Arduino
