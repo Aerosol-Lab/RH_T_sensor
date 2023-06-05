@@ -5,7 +5,7 @@ This repository contains codes and insutructions for creating a Relative Humidit
 * RH and T sensor: DHT22
 
 ## Arduino
-The connection of the RH and T sensor (DHT22) is based on the work of [Dejan Nedelkovski](https://howtomechatronics.com/tutorials/arduino/dht11-dht22-sensors-temperature-and-humidity-tutorial-using-arduino/).
+The connection of the RH and T sensor (DHT22) is described [here](https://github.com/Aerosol-Lab/RH_T_sensor/tree/main/Arduino).
 
 ## Python
-We use Python to continuously read the serial monitor and save the data to files for future post-processing.
+We use Python to continuously read the serial monitor and save the data to files for future post-processing. This is described [here](https://github.com/Aerosol-Lab/RH_T_sensor/tree/main/Python)
