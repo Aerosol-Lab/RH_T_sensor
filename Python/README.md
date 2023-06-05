@@ -3,6 +3,5 @@ We use Python to read the serial monitor and save the data to files for future p
 
 * serial (Becareful install it like this in Ubuntu "pip install serial")
 * threading
-* tqdm
 * tkinter
 * os
