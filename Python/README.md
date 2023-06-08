@@ -6,3 +6,5 @@ We use Python to read the serial monitor and save the data to files for future p
 * tkinter
 * numpy
 * datetime
+
+Open the file "RH_T_serial_read_write.ipynb" and modify the directory where the output data will be stored. The output data will have the date and time according to the computer clock and the Arduino serial output for each line. The data is saved after an user-defined number of lines (100 by default) into files containing a number and the date/time for post-processing. Also, when running this code, make sure to correctly indicate the COM# where your Arduino board is connected to the computer.
