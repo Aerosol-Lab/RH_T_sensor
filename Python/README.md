@@ -4,4 +4,5 @@ We use Python to read the serial monitor and save the data to files for future p
 * serial (Be careful install it like this in Ubuntu "pip install pyserial")
 * threading
 * tkinter
-* os
+* numpy
+* datetime
